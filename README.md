@@ -1,1 +1,2 @@
 # A-data-Science-FrameWork
+This notebook is  designed to walk through the various stages of a decent data science project (workflow) with an aim of seeing the impact of the different stages. Also, Hyperparameter tuning, Feature Engineering and other processes involved in improving model accuracy were specifically highlighted to showcase the iterative process involved in a Data Science project life cycle.
